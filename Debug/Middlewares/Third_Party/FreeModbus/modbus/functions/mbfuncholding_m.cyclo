@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:100:1:eMBMasterReqWriteHoldingRegister	3
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:124:1:eMBMasterFuncWriteHoldingRegister	3
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:169:1:eMBMasterReqWriteMultipleHoldingRegister	4
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:202:1:eMBMasterFuncWriteMultipleHoldingRegister	5
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:265:1:eMBMasterReqReadHoldingRegister	3
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:289:1:eMBMasterFuncReadHoldingRegister	6
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:357:1:eMBMasterReqReadWriteMultipleHoldingRegister	4
+../Middlewares/Third_Party/FreeModbus/modbus/functions/mbfuncholding_m.c:395:1:eMBMasterFuncReadWriteMultipleHoldingRegister	6

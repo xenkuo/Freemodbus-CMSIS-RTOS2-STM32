@@ -1,0 +1,12 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:28:6:xMBPortSerialInit	7
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:70:6:vMBPortSerialEnable	3
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:96:6:vMBPortClose	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:102:6:xMBPortSerialPutByte	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:111:6:xMBPortSerialPutBytes	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:117:6:xMBPortSerialGetByte	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:131:6:prvvUARTTxReadyISR	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:145:6:prvvUARTRxISR	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:155:6:prvvUARTRxReceiveCharISR	1
+../Middlewares/Third_Party/FreeModbus/port/cmsis_rtos2/portserial.c:165:13:handleReceivedDataTask	2
