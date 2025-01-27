@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 build/
+Debug/
 .vscode/
 STM32Make.make
 STM32-for-VSCode.config.yaml
