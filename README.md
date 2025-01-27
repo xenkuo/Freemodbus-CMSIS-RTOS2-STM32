@@ -6,9 +6,13 @@ Translation: [cn](./README_zh.md)
 
 A port of Freemodbus for CMSIS-RTOS2
 
+## Update from Xen
+
+1. Enable uart callback to eliminate incursion to `stm32f4xx_it.c`
+
 ## Other ports (a tiny awesome Freemodbus dual modes):
 | Repository                                                                                       | Repository owner | OS         | Comment                                                       |
-|--------------------------------------------------------------------------------------------------|------------------|------------|---------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------ | ---------------- | ---------- | ------------------------------------------------------------- |
 | [FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32) | Armink           | RT-Thread  | The original Freemodbus master mode                           |
 | [FreeModbus_Slave-Master-RTT-STM32](https://gitee.com/Armink/FreeModbus_Slave-Master-RTT-STM32)  | Armink           | RT-Thread  | Same repository but hosted on gitee                           |
 | [STM32-FreeModbus-Example](https://github.com/ADElectronics/STM32-FreeModbus-Example)            | ADElectronics    | None       | A simple example for both master and slave mode of modbus RTU |
